@@ -1,0 +1,40 @@
+<div id="carousels"><div class="carousel" data-flickity="{ &quot;groupCells&quot;: true }">
+    <div class="carousel-cell">
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">NGO1</h5>
+                <p class="card-text">Description</p>
+                <a href="#" class="btn btn-primary">Show</a>
+            </div>
+        </div>
+    </div>
+    <div class="carousel-cell">
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">NGO1</h5>
+                <p class="card-text">Description</p>
+                <a href="#" class="btn btn-primary">Show</a>
+            </div>
+        </div>
+    </div>
+</div>
+    <div class="carousel" data-flickity="{ &quot;groupCells&quot;: true }">
+        <div class="carousel-cell">
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">NGO1</h5>
+                    <p class="card-text">Description</p>
+                    <a href="#" class="btn btn-primary">Show</a>
+                </div>
+            </div>
+        </div>
+        <div class="carousel-cell">
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                    <h5 class="card-title">NGO1</h5>
+                    <p class="card-text">Description</p>
+                    <a href="#" class="btn btn-primary">Show</a>
+                </div>
+            </div>
+        </div>
+    </div></div>
